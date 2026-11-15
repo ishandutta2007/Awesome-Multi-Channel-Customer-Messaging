@@ -4,11 +4,13 @@
 
 # 🚀 Awesome Multi-Channel Customer Messaging
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Tracked Repos](https://img.shields.io/badge/Open--Source%20Repos-15-blue.svg)](#-open-source-software)
 [![SaaS Platforms](https://img.shields.io/badge/SaaS%20Platforms-8-purple.svg)](#-saas--hosted-platforms)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated list of top Multi-Channel Customer Messaging platforms** — spanning enterprise SaaS/Hosted commercial suites and extensible open-source alternatives for unifying customer conversations across live chat, email, WhatsApp, SMS, social channels, and AI copilots.
 >
@@ -27,6 +29,8 @@
   - [🛠️ Deep-Dive Open-Source Profiles](#️-deep-dive-open-source-profiles)
 - [⚖️ Architectural & Feature Matrix](#️-architectural--feature-matrix)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsor](#-support--sponsor)
 - [📜 License](#-license)
 
 ---
@@ -246,6 +250,27 @@ If you know of an awesome Multi-Channel Customer Messaging platform, open-source
 3. 📝 Add your tool to the relevant table and profile section following the existing markdown schema.
 4. ⭐ For open-source repos, include the official GitHub star badge linking to the `/stargazers` page (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`).
 5. 🚀 Submit your Pull Request with a brief explanation of why the tool stands out.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Multi-Channel-Customer-Messaging&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Multi-Channel-Customer-Messaging&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring and utilizing **Awesome-Multi-Channel-Customer-Messaging**! 🚀
+
+If this curated list saved you research time, assisted in evaluating communication stacks, or introduced you to your next favorite open-source customer support tool, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite customer messaging tools.
+- 📢 **Share** this list with colleagues, engineering teams, and community groups.
+- ☕ **Buy a coffee / Sponsor the project:** Support ongoing maintenance, research, and curation through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
