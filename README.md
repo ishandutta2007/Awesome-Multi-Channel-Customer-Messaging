@@ -109,100 +109,100 @@ Self-hosted, transparent, and data-sovereign customer messaging engines. These p
 
 The table below lists open-source customer messaging and conversational helpdesk repositories ranked in descending order by GitHub stargazers:
 
-| 🏆 Project | ⭐ GitHub Stars | 📜 License | 🛠️ Tech Stack | 🌐 Omnichannel Coverage |
+| 🏆 Project | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack | 🌐 Omnichannel Coverage |
 |:---|:---|:---|:---|:---|
-| **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | GPL-3.0 | TypeScript, Node.js, MongoDB | Omnichannel live chat, WhatsApp, Instagram, Telegram, SMS |
-| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | MIT | Ruby on Rails, Vue.js, PostgreSQL, Redis | Website live chat, Email, WhatsApp, Telegram, Twitter/X, SMS |
-| **[Rasa](https://github.com/RasaHQ/rasa)** | [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) | Server Side Public License | Python, TensorFlow/PyTorch | Conversational AI across Slack, Web, WhatsApp, Messenger |
-| **[Botpress](https://github.com/botpress/botpress)** | [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) | AGPL-3.0 / Elastic-2.0 | TypeScript, React, Node.js | Multi-channel conversational chatbot orchestration |
-| **[Typebot](https://github.com/baptisteArno/typebot.io)** | [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers) | AGPL-3.0 | TypeScript, Next.js, Prisma, PostgreSQL | Embeddable conversational forms, WhatsApp, web apps |
-| **[Papercups](https://github.com/papercups-io/papercups)** | [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) | MIT | Elixir, Phoenix, React, PostgreSQL | Lightweight web live chat, Slack sync, email support |
-| **[Zammad](https://github.com/zammad/zammad)** | [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | AGPL-3.0 | Ruby on Rails, PostgreSQL, Elasticsearch | Email, Phone/CTI, Twitter/X, Facebook, Telegram, WhatsApp |
-| **[FreeScout](https://github.com/freescout-help-desk/freescout)** | [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) | AGPL-3.0 | PHP, Laravel, MySQL/MariaDB | Email shared inbox, WhatsApp, Telegram, Webhooks |
-| **[Chaskiq](https://github.com/chaskiq/chaskiq)** | [![GitHub stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers) | AGPL-3.0 + Commons Clause | Ruby on Rails, React, PostgreSQL | Live chat, WebRTC video calls, mailing campaigns, bots |
-| **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** | [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers) | GPL-3.0 | Python, Frappe Framework, Vue.js | Omnichannel ticketing, email queues, portal, live SLA tracking |
-| **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** | [![GitHub stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers) | Apache-2.0 | PHP, JavaScript, MySQL | Live chat widget, Telegram, WhatsApp, voice call redirect |
-| **[Trudesk](https://github.com/polonel/trudesk)** | [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers) | Apache-2.0 | Node.js, MongoDB, Elasticsearch | Real-time support ticketing, team tasks, email piping |
-| **[opendesk](https://github.com/timrolls/Opendesk)** | [![GitHub stars](https://img.shields.io/github/stars/timrolls/Opendesk?style=social&color=white)](https://github.com/timrolls/Opendesk/stargazers) | AGPL-3.0 | Go, Elixir, PostgreSQL | Real-time shared inbox, web live chat, Ollie AI assistant |
-| **[Tiledesk](https://github.com/Tiledesk/tiledesk)** | [![GitHub stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers) | MIT | Node.js, Express, MongoDB, Docker | Visual chatbot design, multichannel human handoff |
-| **[ChatterMate](https://github.com/chattermate/chattermate.chat)** | [![GitHub stars](https://img.shields.io/github/stars/chattermate/chattermate.chat?style=social&color=white)](https://github.com/chattermate/chattermate.chat/stargazers) | Apache-2.0 | TypeScript, Next.js, Node.js | Multi-channel AI agent, MCP server tools, BYO LLM |
+| **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | GPL-3.0 | TypeScript, Node.js, MongoDB | Omnichannel live chat, WhatsApp, Instagram, Telegram, SMS |
+| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | MIT | Ruby on Rails, Vue.js, PostgreSQL, Redis | Website live chat, Email, WhatsApp, Telegram, Twitter/X, SMS |
+| **[Rasa](https://github.com/RasaHQ/rasa)** | [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) | Server Side Public License | Python, TensorFlow/PyTorch | Conversational AI across Slack, Web, WhatsApp, Messenger |
+| **[Botpress](https://github.com/botpress/botpress)** | [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) | AGPL-3.0 / Elastic-2.0 | TypeScript, React, Node.js | Multi-channel conversational chatbot orchestration |
+| **[Typebot](https://github.com/baptisteArno/typebot.io)** | [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers) | AGPL-3.0 | TypeScript, Next.js, Prisma, PostgreSQL | Embeddable conversational forms, WhatsApp, web apps |
+| **[Papercups](https://github.com/papercups-io/papercups)** | [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) | MIT | Elixir, Phoenix, React, PostgreSQL | Lightweight web live chat, Slack sync, email support |
+| **[Zammad](https://github.com/zammad/zammad)** | [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) | AGPL-3.0 | Ruby on Rails, PostgreSQL, Elasticsearch | Email, Phone/CTI, Twitter/X, Facebook, Telegram, WhatsApp |
+| **[FreeScout](https://github.com/freescout-help-desk/freescout)** | [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) | AGPL-3.0 | PHP, Laravel, MySQL/MariaDB | Email shared inbox, WhatsApp, Telegram, Webhooks |
+| **[Chaskiq](https://github.com/chaskiq/chaskiq)** | [![GitHub_Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers) | AGPL-3.0 + Commons Clause | Ruby on Rails, React, PostgreSQL | Live chat, WebRTC video calls, mailing campaigns, bots |
+| **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers) | GPL-3.0 | Python, Frappe Framework, Vue.js | Omnichannel ticketing, email queues, portal, live SLA tracking |
+| **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** | [![GitHub_Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers) | Apache-2.0 | PHP, JavaScript, MySQL | Live chat widget, Telegram, WhatsApp, voice call redirect |
+| **[Trudesk](https://github.com/polonel/trudesk)** | [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers) | Apache-2.0 | Node.js, MongoDB, Elasticsearch | Real-time support ticketing, team tasks, email piping |
+| **[opendesk](https://github.com/timrolls/Opendesk)** | [![GitHub_Stars](https://img.shields.io/github/stars/timrolls/Opendesk?style=social&color=white)](https://github.com/timrolls/Opendesk/stargazers) | AGPL-3.0 | Go, Elixir, PostgreSQL | Real-time shared inbox, web live chat, Ollie AI assistant |
+| **[Tiledesk](https://github.com/Tiledesk/tiledesk)** | [![GitHub_Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers) | MIT | Node.js, Express, MongoDB, Docker | Visual chatbot design, multichannel human handoff |
+| **[ChatterMate](https://github.com/chattermate/chattermate.chat)** | [![GitHub_Stars](https://img.shields.io/github/stars/chattermate/chattermate.chat?style=social&color=white)](https://github.com/chattermate/chattermate.chat/stargazers) | Apache-2.0 | TypeScript, Next.js, Node.js | Multi-channel AI agent, MCP server tools, BYO LLM |
 
 ---
 
 ### 🛠️ Deep-Dive Open-Source Profiles
 
 #### 🚀 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-* **GitHub Repository:** [`RocketChat/Rocket.Chat`](https://github.com/RocketChat/Rocket.Chat) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
+* **GitHub Repository:** [`RocketChat/Rocket.Chat`](https://github.com/RocketChat/Rocket.Chat) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
 * **Tech Stack:** TypeScript / Node.js / MongoDB | **License:** GPL-3.0
 * **Core Strengths:** Enterprise-grade secure communication platform with a powerful Omnichannel customer service module. Unifies web chat widgets, WhatsApp, Instagram, Telegram, SMS, and Twitter into a single agent console with enterprise RBAC and compliance certifications (HIPAA, GDPR).
 
 #### 💬 [Chatwoot](https://github.com/chatwoot/chatwoot)
-* **GitHub Repository:** [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+* **GitHub Repository:** [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 * **Tech Stack:** Ruby on Rails / Vue.js / PostgreSQL / Redis | **License:** MIT
 * **Core Strengths:** Widely regarded as the leading open-source alternative to Intercom and Zendesk. Features a unified omnichannel inbox supporting live website widgets, Facebook, Instagram, Twitter/X, Telegram, WhatsApp, Line, Twilio SMS, and standard email routing. Offers native mobile apps (iOS & Android) and contact CRM attributes.
 
 #### 🧠 [Rasa](https://github.com/RasaHQ/rasa)
-* **GitHub Repository:** [`RasaHQ/rasa`](https://github.com/RasaHQ/rasa) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)
+* **GitHub Repository:** [`RasaHQ/rasa`](https://github.com/RasaHQ/rasa) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)
 * **Tech Stack:** Python / TensorFlow / PyTorch | **License:** Server Side Public License
 * **Core Strengths:** Industrial-strength conversational AI framework for building contextual AI assistants across customer channels. Provides full control over enterprise conversational training data without vendor lock-in.
 
 #### 🤖 [Botpress](https://github.com/botpress/botpress)
-* **GitHub Repository:** [`botpress/botpress`](https://github.com/botpress/botpress) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
+* **GitHub Repository:** [`botpress/botpress`](https://github.com/botpress/botpress) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
 * **Tech Stack:** TypeScript / React / Node.js | **License:** AGPL-3.0 / Elastic-2.0
 * **Core Strengths:** Developer-centric conversational flow platform designed for designing, building, and deploying generative AI chatbots and agentic customer messaging workflows across web and messaging endpoints.
 
 #### 📝 [Typebot](https://github.com/baptisteArno/typebot.io)
-* **GitHub Repository:** [`baptisteArno/typebot.io`](https://github.com/baptisteArno/typebot.io) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)
+* **GitHub Repository:** [`baptisteArno/typebot.io`](https://github.com/baptisteArno/typebot.io) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)
 * **Tech Stack:** TypeScript / Next.js / Prisma / PostgreSQL | **License:** AGPL-3.0
 * **Core Strengths:** Visual conversational flow builder that turns traditional forms into interactive conversational experiences. Easily embeds into any website or WhatsApp channel with real-time webhooks and native OpenAI/Anthropic blocks.
 
 #### ⚡ [Papercups](https://github.com/papercups-io/papercups)
-* **GitHub Repository:** [`papercups-io/papercups`](https://github.com/papercups-io/papercups) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
+* **GitHub Repository:** [`papercups-io/papercups`](https://github.com/papercups-io/papercups) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
 * **Tech Stack:** Elixir / Phoenix / React / PostgreSQL | **License:** MIT
 * **Core Strengths:** Lightweight and clean Elixir-based live customer chat engine with bi-directional Slack synchronization. *(Note: Main repository is in community maintenance mode; ideal for teams seeking a lean Elixir codebase to fork).*
 
 #### 🛡️ [Zammad](https://github.com/zammad/zammad)
-* **GitHub Repository:** [`zammad/zammad`](https://github.com/zammad/zammad) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+* **GitHub Repository:** [`zammad/zammad`](https://github.com/zammad/zammad) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
 * **Tech Stack:** Ruby on Rails / PostgreSQL / Elasticsearch | **License:** AGPL-3.0
 * **Core Strengths:** Modern web-based helpdesk delivering one of the most polished user experiences in the open-source ecosystem. Integrates email piping, telephony (CTI), Twitter/X, Facebook, Telegram, and WhatsApp into an ITIL-compliant ticketing and knowledge base environment.
 
 #### 📮 [FreeScout](https://github.com/freescout-help-desk/freescout)
-* **GitHub Repository:** [`freescout-help-desk/freescout`](https://github.com/freescout-help-desk/freescout) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
+* **GitHub Repository:** [`freescout-help-desk/freescout`](https://github.com/freescout-help-desk/freescout) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
 * **Tech Stack:** PHP / Laravel / MySQL / MariaDB | **License:** AGPL-3.0
 * **Core Strengths:** Super-lightweight, self-hosted Help Scout alternative designed to run on minimal server resources. Provides collision detection, unlimited mailboxes, multilingual support, and a rich modular marketplace for WhatsApp, SLA triggers, and custom fields.
 
 #### 📹 [Chaskiq](https://github.com/chaskiq/chaskiq)
-* **GitHub Repository:** [`chaskiq/chaskiq`](https://github.com/chaskiq/chaskiq) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)
+* **GitHub Repository:** [`chaskiq/chaskiq`](https://github.com/chaskiq/chaskiq) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)
 * **Tech Stack:** Ruby on Rails / React / PostgreSQL / Redis | **License:** AGPL-3.0 + Commons Clause
 * **Core Strengths:** Conversational platform combining live chat, rich text campaigns, bots, and WebRTC video calling directly in the customer messenger interface.
 
 #### 📋 [Frappe Helpdesk](https://github.com/frappe/helpdesk)
-* **GitHub Repository:** [`frappe/helpdesk`](https://github.com/frappe/helpdesk) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
+* **GitHub Repository:** [`frappe/helpdesk`](https://github.com/frappe/helpdesk) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
 * **Tech Stack:** Python / Frappe Framework / Vue.js | **License:** GPL-3.0
 * **Core Strengths:** Clean, fast, and modern open-source customer support tool built on the Frappe framework. Features ticket assignment, SLA rules, email sync, customer portal, and native Frappe/ERPNext ecosystem synergy.
 
 #### 💬 [Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)
-* **GitHub Repository:** [`LiveHelperChat/livehelperchat`](https://github.com/LiveHelperChat/livehelperchat) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)
+* **GitHub Repository:** [`LiveHelperChat/livehelperchat`](https://github.com/LiveHelperChat/livehelperchat) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)
 * **Tech Stack:** PHP / JavaScript / MySQL | **License:** Apache-2.0
 * **Core Strengths:** Mature, highly flexible live chat software supporting web chat, co-browsing, Telegram, WhatsApp, and Facebook Messenger with low memory footprint and extensive third-party webhook integrations.
 
 #### 🎫 [Trudesk](https://github.com/polonel/trudesk)
-* **GitHub Repository:** [`polonel/trudesk`](https://github.com/polonel/trudesk) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
+* **GitHub Repository:** [`polonel/trudesk`](https://github.com/polonel/trudesk) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
 * **Tech Stack:** Node.js / MongoDB / Elasticsearch | **License:** Apache-2.0
 * **Core Strengths:** Open-source helpdesk ticketing system designed for speed and real-time collaboration. Includes ticket management, internal tasks, customer accounts, and email pipelining.
 
 #### ⚡ [opendesk](https://github.com/timrolls/Opendesk)
-* **GitHub Repository:** [`timrolls/Opendesk`](https://github.com/timrolls/Opendesk) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/timrolls/Opendesk?style=social&color=white)](https://github.com/timrolls/Opendesk/stargazers)
+* **GitHub Repository:** [`timrolls/Opendesk`](https://github.com/timrolls/Opendesk) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/timrolls/Opendesk?style=social&color=white)](https://github.com/timrolls/Opendesk/stargazers)
 * **Tech Stack:** Go / Elixir / PostgreSQL | **License:** AGPL-3.0
 * **Core Strengths:** High-performance Go and Elixir helpdesk delivering real-time shared inbox synchronization, embedded website chat, public documentation portal, and built-in Ollie AI assistant supporting local and frontier LLMs.
 
 #### 🔀 [Tiledesk](https://github.com/Tiledesk/tiledesk)
-* **GitHub Repository:** [`Tiledesk/tiledesk`](https://github.com/Tiledesk/tiledesk) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers)
+* **GitHub Repository:** [`Tiledesk/tiledesk`](https://github.com/Tiledesk/tiledesk) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk?style=social&color=white)](https://github.com/Tiledesk/tiledesk/stargazers)
 * **Tech Stack:** Node.js / Express / MongoDB / Docker | **License:** MIT
 * **Core Strengths:** Low-code conversational workflow designer coupling rule-based & LLM chatbots with smooth human agent handoff across WhatsApp Business, website widgets, and mobile channels.
 
 #### 🤖 [ChatterMate](https://github.com/chattermate/chattermate.chat)
-* **GitHub Repository:** [`chattermate/chattermate.chat`](https://github.com/chattermate/chattermate.chat) | **Stars:** [![GitHub stars](https://img.shields.io/github/stars/chattermate/chattermate.chat?style=social&color=white)](https://github.com/chattermate/chattermate.chat/stargazers)
+* **GitHub Repository:** [`chattermate/chattermate.chat`](https://github.com/chattermate/chattermate.chat) | **Stars:** [![GitHub_Stars](https://img.shields.io/github/stars/chattermate/chattermate.chat?style=social&color=white)](https://github.com/chattermate/chattermate.chat/stargazers)
 * **Tech Stack:** TypeScript / Next.js / Node.js | **License:** Apache-2.0
 * **Core Strengths:** AI-first customer support agent supporting human handoff, omnichannel ingestion (Web, WhatsApp, Instagram, Messenger, Slack, Email), MCP tool integration, and bring-your-own LLM architecture with read-only database guardrails.
 
@@ -248,7 +248,7 @@ If you know of an awesome Multi-Channel Customer Messaging platform, open-source
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-tool`.
 3. 📝 Add your tool to the relevant table and profile section following the existing markdown schema.
-4. ⭐ For open-source repos, include the official GitHub star badge linking to the `/stargazers` page (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`).
+4. ⭐ For open-source repos, include the official GitHub Stars_Badge linking to the `/stargazers` page (`https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`).
 5. 🚀 Submit your Pull Request with a brief explanation of why the tool stands out.
 
 ---
